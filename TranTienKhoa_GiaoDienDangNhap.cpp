@@ -1,11 +1,12 @@
 Giao diện người dùng (Frontend Dev)
+Chọn Bootstrap làm FE (Frontend)
 Công việc:
 
 Thiết kế giao diện:
 
 Trang chủ (Guest)
 
-Đăng nhập/Đăng ký
+Đăng nhập/Đăng ký/Quên Mật Khẩu
 
 Trang tìm gia sư (cho Student)
 
