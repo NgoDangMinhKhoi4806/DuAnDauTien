@@ -6,7 +6,7 @@ Thiết kế giao diện:
 
 Trang chủ (Guest)
 
-Đăng nhập/Đăng ký
+Đăng nhập/Đăng ký/Quên Mật Khẩu
 
 Trang tìm gia sư (cho Student)
 
